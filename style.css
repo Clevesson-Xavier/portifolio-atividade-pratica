@@ -1,0 +1,74 @@
+*{
+    background-color: rgb(186, 199, 240);
+    font-family: 'Montserrat', sans-serif
+}
+
+.cabecalho img{
+    max-width: 150px;
+    filter: saturate(100%);
+}
+
+.cabecalho{
+    justify-content: center;
+    display: flex;
+    gap: 50px;
+    margin-top: 30px;
+    align-items: center;
+}
+
+.sobre-mim{
+   text-align:center;
+   margin: 0px 300px;
+}
+
+.especidalidades{
+    text-align:center;
+}
+
+.especidalidades ul{
+    list-style: none;
+}
+
+.contatos{
+    text-align:center;
+   margin: 0px 300px;
+}
+
+.contatos ul{
+    list-style: none;
+}
+
+.cabecalho button{
+  background-color: white;
+}
+
+.cabecalho button a{
+  background-color: white;
+  text-decoration: none;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+.pagina-inicial{
+  text-align:center;
+}
+
+.pagina-inicial a{
+  background-color: white;
+  text-decoration: none;
+}
+
+.pagina-inicial button{
+  background-color: white;
+}
+
+.links{
+  text-align:center;
+}
+
+.links ul{
+  list-style: none;
+}
